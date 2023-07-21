@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 35px;
+    padding-top: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.nav-items > ul{
+    padding-top: 15px;
+    display: flex;
+    list-style-type: none;
+    gap: 12px;    
+}
+.nav-items > ul >Link>li{
+    padding: 10px;
+}
+.logo{
+    width: 100px;
+    padding-left: 8px;
+}
+
+.card{
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    overflow-wrap:break-word;
+}
+.card > img{
+    width: 100%;
+}
+.restaurant-list{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: wrap;
+}
+.restaurant-list> .link{
+    text-decoration: none;
+    color: black;
+}
+.shimmer-card{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    margin: 15px;
+}
+.img{
+    border-radius: 5px;
+    width: 100%;
+    height: 50%;
+    background-color: darkgrey;
+}
+.txt{
+    display: flex;
+    gap: 2px;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.txt>p{
+    padding-left: 0px;
+    margin: 5px;
+    width: 130px;
+    height: 10px;
+    background-color: darkgrey; 
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+} */
